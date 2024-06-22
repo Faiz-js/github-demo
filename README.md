@@ -1,4 +1,4 @@
 # github-demo
 this is my first git repository
 <br>
-Author - Faiz Mohamed
+Author - Faiz Mohamed (js)
